@@ -150,10 +150,10 @@ Cuando el bug se corrige y el test vuelve a pasar, el Issue se cierra automátic
 
 ## 👤 Autor
 
-**Miguel Barrientos**  
+**César Montaña**  
 QA Automation Engineer — AI-Augmented QA  
-[LinkedIn](https://www.linkedin.com/in/miguelbarrientosottolina/) · [GitHub](https://github.com/MiguelZod24)
+[LinkedIn](https://www.linkedin.com/in/cesar-m-30667880/) · [GitHub](https://github.com/Cisar0611)
 
 ---
 
-*Proyecto desarrollado como parte de una investigación aplicada sobre integración de IA en el ciclo de vida completo del testing — Abril 2026*
+*Proyecto desarrollado como parte de una investigación aplicada sobre integración de IA en el ciclo de vida completo del testing — Agosto 2026*
