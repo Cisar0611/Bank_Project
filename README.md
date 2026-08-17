@@ -7,7 +7,7 @@
 ![GitHub Issues](https://img.shields.io/badge/Issues%20automáticos-GitHub%20Models-blueviolet?logo=github)
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=MiguelZod24_Bank_Project)](https://sonarcloud.io/summary/new_code?id=MiguelZod24_Bank_Project)
 
-> Proyecto de automatización QA para **[Parabank](https://parabank.parasoft.com/parabank/index.html)** con un flujo de 8 etapas impulsado por IA. Automatiza la exploración de la aplicación, ejecución de pruebas, gestión de bugs y validaciones de calidad, integrado en un pipeline CI/CD de extremo a extremo.
+> Proyecto de automatización QA sobre **[Parabank](https://parabank.parasoft.com/parabank/index.html)** aplicando un flujo completo de 8 pasos orquestado con Inteligencia Artificial. Desde la exploración automática hasta el cierre automático de bugs — todo integrado en un pipeline CI/CD.
 
 ---
 
@@ -146,7 +146,14 @@ Cuando el bug se corrige y el test vuelve a pasar, el Issue se cierra automátic
 - ✅ Issues creados y cerrados automáticamente
 - ✅ Flujo completo de 8 pasos implementado y verificado
 
+---
 
+## 👤 Autor
 
+**Miguel Barrientos**  
+QA Automation Engineer — AI-Augmented QA  
+[LinkedIn](https://www.linkedin.com/in/miguelbarrientosottolina/) · [GitHub](https://github.com/MiguelZod24)
 
+---
 
+*Proyecto desarrollado como parte de una investigación aplicada sobre integración de IA en el ciclo de vida completo del testing — Abril 2026*
